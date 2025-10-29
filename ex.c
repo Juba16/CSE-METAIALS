@@ -1,3 +1,4 @@
+//ARMSTRONG_NUMBERS
 #include <stdio.h>
 int main() {
     int a,b,c,s,t,p,z,i,k,r,n;
